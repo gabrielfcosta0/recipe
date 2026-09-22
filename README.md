@@ -9,6 +9,8 @@
 -unordered
 -list
 
+![Recipe Photo](recipe.jpg)
+
 
 line 2 changed remotely 
 **Testing**
